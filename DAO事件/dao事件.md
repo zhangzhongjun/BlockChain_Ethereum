@@ -214,3 +214,5 @@ https://ethfans.org/posts/split-the-dao-get-back-ether 分割dao的教程
 https://vessenes.com/deconstructing-thedao-attack-a-brief-code-tour/
 https://vessenes.com/more-ethereum-attacks-race-to-empty-is-the-real-deal/
 https://www.jubi.com/shanzhaibi/1748.html
+
+https://blog.daohub.org/the-dao-is-under-attack-8d18ca45011b 第一个爆出the DAO时间的帖子
